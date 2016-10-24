@@ -2,5 +2,6 @@
 
 
 Integrantes: 
-•	Delger Agustín
-•	Saavedra Andres
+
+-	Delger Agustín
+-	Saavedra Andres
